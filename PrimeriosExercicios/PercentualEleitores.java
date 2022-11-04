@@ -27,7 +27,7 @@ public class PercentualEleitores {
             System.out.printf("Percentual de votos nulos: %.2f%%", percentNulos);
 
             System.out.println();
-            System.out.printf("Total de votos válidos: %.f%",  votosValidos);
+            System.out.printf("Total de votos válidos: %.0f", votosValidos);
             System.out.println();
             System.out.printf("Percentual de votos válidos: %.2f%%", percentValidos);
             System.out.println();
